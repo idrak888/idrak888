@@ -3,4 +3,10 @@
 - 🔭 I’m currently working on my React Native skills
 - ⚡️ Upgrading my algorithms and data structures fundamentals 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrak888&theme=dracula)](https://github.com/idrak888/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrak888&layout=center">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idrak888&&show_icons=true&title_color=eeeeee&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github stats" width="45%">
+</p>
