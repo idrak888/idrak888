@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my React Native skills
+- 🎓 I’m currently in first year undergraduate Computer Science 
+- 🔭 Working on my React Native skills on the side
 - ⚡️ Upgrading my algorithms and data structures fundamentals 
