@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🎓 I’m currently in second year Computer Science 
-- 🔭 Learning Ruby on Rails 
+- 🔭 Exploring Tailwind CSS
 - ⚡️ Working on my algorithms and data structures fundamentals 
