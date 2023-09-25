@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🎓 I’m currently in second year Computer Science 
-- 🔭 Exploring Machine Learning with Python
-- ⚡️ Working on my algorithms and data structures fundamentals 
+### 🎓 I’m currently in second year Computer Science 
 
-### Accomplishments 🏆
+## Accomplishments 🏆
 
 - 🥇 Won 1st place for York Engineering Competition 2022 (Programming Category)
 - 🥇 Won the ETHGlobal prize for Hack the North 10
