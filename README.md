@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### 🎓 I’m currently in second year Computer Science 
-### 🔬 Research Assistant @ Department of Mech. Eng
-### 👨‍💻 Prev Tech Lead @ Google DSC YorkU
+#### 🎓 I’m currently in my second year of Computer Science 
 
 ## Accomplishments 🏆
 
