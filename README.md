@@ -4,6 +4,7 @@
 
 ### Accomplishments 🏆
 
+- 🥇 Won 1st place for York Engineering Competition 2023 (Programming Category)
 - 🥇 Won the ETHGlobal prize for Hack the North 10
 - 🥇 Won 1st place for York Engineering Competition 2022 (Programming Category)
 - 🥈 Finished 2nd place for Ontario Engineering Competition (Programming Category)
