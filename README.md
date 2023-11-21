@@ -1,8 +1,8 @@
-### Hi there 👋
+### bonjour 👋
 
 🎓 I’m currently in my second year of Computer Science
 
-### Competitions 🏆
+### competitions 🏆
 
 - 🥇 Won 1st place for York Engineering Competition 2023 (Programming Category)
 - 🥇 Won the ETHGlobal prize for Hack the North 10
