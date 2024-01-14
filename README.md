@@ -1,4 +1,4 @@
-### Bonjour 👋
+### Hello 👋
 
 🎓 I’m currently in my second year of Computer Science
 
