@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🎓 I’m currently in my second year of Computer Science
+🎓 Second year computer science student 
 
 ### Achievements 🏆
 
