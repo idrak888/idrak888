@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-<p>🛠 Working @ Dayforce as Software Engineer Intern</p>
-<p>🎓 Finishing up my Second year of computer science  </p>
+- 🛠 Working @ Dayforce as a Software Engineer Intern
+- 🎓 Finishing up my Second year of computer science 
 
 ### Achievements 🏆
 
