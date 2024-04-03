@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-🎓 Second year computer science student 
+🛠 Working @ Dayforce as Software Engineer Intern
+🎓 Finishing up my Second year of computer science  
 
 ### Achievements 🏆
 
