@@ -1,4 +1,4 @@
-### Hello there 👋
+### What I am up to 💡
 
 - 🛠 Working @ Dayforce as a Software Engineer Intern
 - 🎓 Finishing up my Second year of computer science 
