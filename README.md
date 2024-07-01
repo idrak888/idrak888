@@ -2,4 +2,4 @@
 
 - 🛠 Working @ <a href="https://dayforce.com">Dayforce</a> as a Software Engineer Intern 
 - 🎓 Finishing up second year of computer science @ York University
-- 🤓 Learning SpecFlow
+- 🤓 Learning test automation and BDD frameworks 
