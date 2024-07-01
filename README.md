@@ -1,4 +1,4 @@
-# Software Engineering + AI
+# Software Engineer
 
 ### What I'm up to 💡
 
