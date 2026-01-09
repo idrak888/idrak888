@@ -3,5 +3,5 @@
 ### What I'm up to 💡
 
 - 🎓 Final year CS @ York University
-- 🛠 Prev @ <a href="https://dayforce.com">Dayforce</a> as a Software Engineer Intern 
+- 🛠 SDE Intern @ <a href="https://www.rbcroyalbank.com/">RBC</a>
 - 🤓 Leading the <a href="https://yublueprint.org">YU Blueprint</a> chapter
